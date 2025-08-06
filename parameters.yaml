@@ -1,0 +1,88 @@
+compressors:
+  - name: "ahmad"
+    power: 0.18
+    latency: 0.03526
+
+  - name: "akbari"
+    power: 0.42
+    latency: 0.0665
+
+  - name: "meo"
+    power: 0.41
+    latency: 0.15437
+
+  - name: "venka"
+    power: 0.47
+    latency: 0.09956
+
+  - name: "yang"
+    power: 0.59
+    latency: 0.12656
+
+  - name: "momeni"
+    power: 0.44
+    latency: 0.06986
+
+  - name: "AC6G1"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G2"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G3"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G4"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G5"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G6"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G7"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G8"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G9"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G10"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G11"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "AC6G12"
+    power: 0.09126
+    latency: 0.03994
+
+  - name: "ACFGI1"
+    power: 0.0001
+    latency: 0.0001
+
+  - name: "ACFGII1"
+    power: 0.0001
+    latency: 0.0001
+
+  - name: "ACFGII10"
+    power: 0.0001
+    latency: 0.0001
+
+  - name: "app_compressor"
+    power: 0.04918
+    latency: 0.04199
